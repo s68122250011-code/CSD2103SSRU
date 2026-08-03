@@ -1,4 +1,4 @@
-public class TestProgram3_034 {
+public class TestProgram2_011 {
 
     // Algorithm 1: Recursive
     static int countVowelsRecursive(String s) {
